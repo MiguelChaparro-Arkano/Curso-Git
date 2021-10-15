@@ -6,3 +6,7 @@ libros = [
     { nombre: "Ilona llega con la LLuvia", paginas: 234, autor: "Sergio Cabrera" },
     { nombre: "Los Vengadores", paginas: 990, autor: "Carla Giraldo" }
 ]
+
+function saludo() {
+    alert("Hola Mundo")
+}
