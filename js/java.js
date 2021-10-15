@@ -7,6 +7,6 @@ libros = [
     { nombre: "Los Vengadores", paginas: 990, autor: "Carla Giraldo" }
 ]
 
-function saludo() {
-    alert("Hola Mundo")
+function saludo(mes) {
+    alert("mes")
 }
